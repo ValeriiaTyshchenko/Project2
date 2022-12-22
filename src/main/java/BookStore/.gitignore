@@ -14,7 +14,6 @@ build
 ../../BookStore/.idea/libraries/
 *.iws
 
-*.ipr
 
 ### Eclipse ###
 .apt_generated
