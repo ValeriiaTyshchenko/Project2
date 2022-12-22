@@ -13,7 +13,7 @@ build
 ../../BookStore/.idea/compiler.xml
 ../../BookStore/.idea/libraries/
 *.iws
-*.iml
+
 *.ipr
 
 ### Eclipse ###
