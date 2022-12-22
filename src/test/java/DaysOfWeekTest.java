@@ -68,6 +68,10 @@ public class DaysOfWeekTest {
 
 
     }
+
+    @Test
+    public void newMethod() {
+    }
 }
 
 
